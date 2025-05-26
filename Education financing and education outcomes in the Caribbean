@@ -59,15 +59,6 @@ years of school and government expenditure on education as a proportion of GDP, 
 This correlation shows a moderately positively (R2 of 0.49) and statistically significant (P-value < 0.05) relationship between these variables. 
 This relationship suggests that adequate public investments in education are essential for human capital accumulation.
 
-<img src="Human Development Index and learning-adjusted years of school.png" alt="Human Development Index and learning-adjusted years of school in SIDS">
-
-<h2>🌡️ Berlin Temperatures Over the Year</h2>
-   
-
-    <p>
-        This dataset was cleaned using Pandas and plotted using Matplotlib in Python. You can view the full analysis 
-        <a href="projects/berlin_climate_analysis.html" target="_blank">here</a>.
-    </p>
 
     <footer>
         &copy; 2025 Your Name
