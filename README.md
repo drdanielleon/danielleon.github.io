@@ -20,3 +20,20 @@ sensitivity to my work.
 
 ### Education
 -PhD in Global Studies, University of Leipzig (2018)
+
+###  Projects
+
+#### Education financing and education outcomes in the Caribbean
+Orthodox human capital theory places the skills and knowledge imparted by educational institutions in adults, 
+youth and children as a key driver of human capital (Becker, 1993). The different industrial revolutions exemplify how
+productivity is driven by a labour force that can innovate complex technologies and effectively work with them to increase 
+economic growth. Hence, education in the Caribbean is vital for economic development, social mobility, and 
+individual empowerment (Wright, 2024). Although education is central to human capital formation, and thus to sustainable 
+economic development, public financing for education in the Caribbean is not always optimal, creating deficiencies in educational outcomes. These deficiencies contribute to mismatches between educational outcomes and labour market needs, which adversely affect economic productivity in the subregion.
+   
+Educational outcomes are directly related to measures of sustainable development. Not surprisingly, the Human Development Index shows high correlation with the learning-adjusted years of school (average years of school weighted for the average harmonized test scores)for 25 SIDS, including 11 Caribbean member States for 2020 (Figure 1). This correlation is statistically significant (P-value < 0.001) and positive (R2 = 0.85), suggesting a strong relationship between education and human development. Yet, students in the subregion face 
+significant challenges that hinder human capital formation and threaten progress on Goal 4 of the Sustainable Development Goals (SDGs), which aims for inclusive and equitable quality education for all. 
+
+The impact of education on human capital accumulation in the Caribbean is profound. Due to the importance of education as a key driver of human capital, public investments in education are essential to equip the workforce with the necessary skills, allowing them to contribute to overall productivity through their labour (Becker, 1993). This relationship is depicted in Figure 1, which correlates the average learning-adjusted years of school and government expenditure on education as a proportion of GDP, scaled for the population under 18 years of age in 25 SIDS for 2020. This correlation shows a moderately positively (R2 of 0.49) and statistically significant (P-value < 0.05) relationship between these variables. This relationship suggests that adequate public investments in education are essential for human capital accumulation.
+
+
