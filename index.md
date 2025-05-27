@@ -3,6 +3,4 @@ layout: default
 title: Home
 ---
 
-# Welcome
-
-This is my site.
+{% include_relative README.md %}
