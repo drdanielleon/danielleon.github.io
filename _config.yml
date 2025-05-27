@@ -1,4 +1,5 @@
 title: Daniel Leon
+logo: /assets/headshot_circle.png
 #description: text below image
 #show_downdloads: true
-theme: minima
+theme: jekyll-theme-minimal
