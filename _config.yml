@@ -6,4 +6,6 @@ social:
     icon: "fab fa-linkedin" # or an emoji
     link: "https://www.linkedin.com/in/daniel-leon-79b50322"
 #show_downdloads: true
-theme: jekyll-theme-minimal
+google_analytics:
+theme: jekyll-theme-cayman
+#theme: jekyll-theme-minimal
