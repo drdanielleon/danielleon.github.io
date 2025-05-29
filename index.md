@@ -12,7 +12,7 @@ At the United Nations Economic Commission for Latin America and the Caribbean (U
 
 My international experiences—having lived in Germany, the Caribbean, Venezuela, the United States, and Egypt and witnessing socioeconomic disparities firsthand—have shaped my commitment to global development. Fluent in English, German, and Spanish, and with good knowledge of French and Portuguese, I thrive in multicultural environments and bring high cultural and gender sensitivity to my work.
 
-In this page, I provide vingnettes of some of my recently projects in data analysis and statistics.
+In this page, I provide vingnettes of some of my recently projects in data analysis and statistics. To view my professional profile and publications, see my [LinkedIn page](https://www.linkedin.com/in/daniel-leon-79b50322/).
 
 ##  My data analysis projects with the United Nations
 
