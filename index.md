@@ -16,32 +16,6 @@ In this page, I provide vingnettes of some of my recently projects in data analy
 
 ##  My data analysis projects with the United Nations
 
-### International Migration in the Caribbean
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Power BI Dashboard</title>
-</head>
-<body>
-  <h1>Interactive Dashboard</h1>
-  <p>This dashboard was created in Power BI and published via GitHub Pages.</p>
-
-  <!-- Power BI iframe embed -->
-  <iframe 
-    title="Migration of women and men in the Caribbean, 2000 to 2020" 
-    width="1140" 
-    height="541.25" 
-    src="https://app.powerbi.com/reportEmbed?reportId=a1c69c42-52a5-4abd-bf8f-3bd6ac30a41d&autoAuth=true&embeddedDemo=true" 
-    frameborder="0" 
-    allowFullScreen="true">
-  </iframe>
-</body>
-</html>
-
-
 ### Labour productivity, education financing and education outcomes in the Caribbean
 
 This ongoing project at UN-ECLAC, based on recent [policy publications](https://repositorio.cepal.org/entities/publication/ae5d0441-f309-4b60-87c8-67aa8aba9969), argues that labour productivity is an important cornerstone of the modern economy and increasing it is essential for countries to maintain economic growth, a crucial factor for achieving several sustainable development goals (SDGs), including eliminating poverty and hunger and promoting decent work (SDGs 1, 2, and 8). Unfortunately, available data show that labour productivity has declined or stagnated in most Caribbean countries in recent years. Arguably, deficiencies in the education system are a factor in the poor labour productivity of the subregion. These deficiencies, such as poor educational attainment and skills mismatch, result in poor quality of output, even as the number of school leavers and graduates increase, ultimately resulting in relatively low human capital, which hinders labour productivity in the Caribbean.
